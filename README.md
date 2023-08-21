@@ -1,11 +1,3 @@
-# "Combining Perception Considerations with Artificial Intelligence in Maritime Threat Detection Systems" IEEE SoSE 2022 Conference in Rochester, NY
-
-phishing boat.
-
-
-bare bone documentation and raw program for results in our paper: 
-
-Combining Perception Considerations with Artificial Intelligence in Maritime Threat Detection Systems
-by Jack Qiao, Lucy Huang, Ian Chen, Dan Tamir and Naphtali Rishe
-
+# maritime-perception-considerations
+code from [Combining Perception Considerations with Artificial Intelligence in Maritime Threat Detection Systems](https://ieeexplore.ieee.org/document/9812640), published in 2022 IEEE SOSE. worked in collaboration with [Jack Qiao](https://github.com/qiaomein), Lucy Huang, Dan Tamir, and Naphtali Rishe; original repo at [phishing](https://github.com/qiaomein/phishing)
 
